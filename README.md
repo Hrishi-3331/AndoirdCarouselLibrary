@@ -8,7 +8,7 @@ Android Library for Carousels
 Carousels are important elements of modern UI Designs. Here is easy to use open source library for implementing carousels in android activities.
 
 ## Carousel with bottom dots
-
+<img src="https://user-images.githubusercontent.com/43084197/86379277-46687580-bca8-11ea-9748-e1538f33154e.jpeg" width="300">    <img src="https://user-images.githubusercontent.com/43084197/86378698-92ff8100-bca7-11ea-8f23-c38192e35cb6.jpeg" width="300">    <img src="https://user-images.githubusercontent.com/43084197/86379041-f4bfeb00-bca7-11ea-848b-8911dc7de4c0.jpeg" width="300">
 
 ## Carousel with overlaping dots
 <img src="https://user-images.githubusercontent.com/43084197/86376552-c5f44580-bca4-11ea-857a-cf718dfbbc02.jpeg" width="300" style="margin:5px" >    <img src="https://user-images.githubusercontent.com/43084197/86376540-c12f9180-bca4-11ea-98e1-777bd663b18c.jpeg" width="300">    <img src="https://user-images.githubusercontent.com/43084197/86376547-c42a8200-bca4-11ea-8443-b1e23a81be65.jpeg" width="300">
