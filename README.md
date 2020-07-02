@@ -1,2 +1,66 @@
+[![](https://jitpack.io/v/Hrishi-3331/AndoirdCarouselLibrary.svg)](https://jitpack.io/#Hrishi-3331/AndoirdCarouselLibrary)
+
+
 # AndoirdCarouselLibrary
 Android Library for Carousels
+
+
+Carousels are important elements of modern UI Designs. Here is easy to use open source library for implementing carousels in android activities.
+
+### Installation
+
+Follow these steps to use this library in your android project..
+
+Step1 : Add it in your root build.gradle at the end of repositories:
+
+```sh
+allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+```
+
+Step2: Add the dependency in app level gradle file
+
+```sh
+dependencies {
+    implementation 'com.github.Hrishi-3331:AndoirdCarouselLibrary:v1.0.0'
+}
+```
+
+### User Guide
+
+Methods:
+
+Following methods can be used to customize  your carousel
+
+* setLength() - Set the number of images in your carousel. Current version supports upto 8 carousels. This method is be mandatorily called after initialization of CarouselView.
+
+* setColorActive() - Set the color of active dot. Default active color is red.
+
+* ssetColorInActive() - Set the color of inactive dot. Default active color is blue.
+
+* enableDots() - This method is use to enable dots view along with promotional images. Dots are enabled by default. This method can be used to re-enable them if they are disabled by some other method.
+
+* disableDots() - This method is used to hide/disappear dots. Dots can be re-enabled again using enableDots().
+
+* addPromotion() - Method used to add promotional image to carousel. If this method is called for more number of times than the length specified in setLength(), then the overflow is discarded.
+
+* showCarousel() - This method is to be mandatorily called after initalization and configuration process. CarouselView is visible only after this method is called. Default visibility of view is VIEW.GONE
+
+* overlapDotsonImage() - This method enables dots to overlap carousel images. But default overlapping is disabled and can be enabled by calling this method.
+
+
+
+
+
+
+License
+----
+
+MIT
+
+
+**Open Source! Contributions to project are always welcome**
