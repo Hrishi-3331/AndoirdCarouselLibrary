@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    >
+
+    <android.support.v4.view.ViewPager
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:id="@+id/carousel_pager"
+        >
+
+    </android.support.v4.view.ViewPager>
+
+    <LinearLayout
+        android:id="@+id/carousel_dots"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:padding="10dp"
+        >
+
+        <ImageView
+            android:id="@+id/carousel_dot1"
+            android:layout_margin="3dp"
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:scaleType="fitXY"
+            android:tint="@android:color/white"
+            android:src="@android:drawable/radiobutton_off_background" />
+
+        <ImageView
+            android:id="@+id/carousel_dot2"
+            android:layout_margin="3dp"
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:scaleType="fitXY"
+            android:tint="@android:color/white"
+            android:src="@android:drawable/radiobutton_off_background" />
+
+        <ImageView
+            android:id="@+id/carousel_dot3"
+            android:layout_margin="3dp"
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:scaleType="fitXY"
+            android:tint="@android:color/white"
+            android:src="@android:drawable/radiobutton_off_background" />
+
+        <ImageView
+            android:id="@+id/carousel_dot4"
+            android:layout_margin="3dp"
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:scaleType="fitXY"
+            android:tint="@android:color/white"
+            android:src="@android:drawable/radiobutton_off_background" />
+
+        <ImageView
+            android:id="@+id/carousel_dot5"
+            android:layout_margin="3dp"
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:scaleType="fitXY"
+            android:tint="@android:color/white"
+            android:src="@android:drawable/radiobutton_off_background" />
+
+        <ImageView
+            android:id="@+id/carousel_dot6"
+            android:layout_margin="3dp"
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:scaleType="fitXY"
+            android:tint="@android:color/white"
+            android:src="@android:drawable/radiobutton_off_background" />
+
+        <ImageView
+            android:id="@+id/carousel_dot7"
+            android:layout_margin="3dp"
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:scaleType="fitXY"
+            android:tint="@android:color/white"
+            android:src="@android:drawable/radiobutton_off_background" />
+
+        <ImageView
+            android:id="@+id/carousel_dot8"
+            android:layout_margin="3dp"
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:scaleType="fitXY"
+            android:tint="@android:color/white"
+            android:src="@android:drawable/radiobutton_off_background" />
+
+
+    </LinearLayout>
+
+</LinearLayout>
