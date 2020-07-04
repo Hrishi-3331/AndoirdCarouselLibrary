@@ -1,4 +1,5 @@
 [![](https://jitpack.io/v/Hrishi-3331/AndoirdCarouselLibrary.svg)](https://jitpack.io/#Hrishi-3331/AndoirdCarouselLibrary)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 
 # AndoirdCarouselLibrary
