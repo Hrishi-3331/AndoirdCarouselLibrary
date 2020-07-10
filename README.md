@@ -1,5 +1,7 @@
 [![](https://jitpack.io/v/Hrishi-3331/AndoirdCarouselLibrary.svg)](https://jitpack.io/#Hrishi-3331/AndoirdCarouselLibrary)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://github.com/Hrishi-3331/AndoirdCarouselLibrary/releases/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Hrishi-3331/AndoirdCarouselLibrary/commits/master)
 
 
 # AndoirdCarouselLibrary
